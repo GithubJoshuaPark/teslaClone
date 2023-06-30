@@ -44,3 +44,19 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+---
+
+## styled-components and redux-toolkit using exercising
+
+> Tesla clone page and others for exercising how to use styled-components and redux-toolkit
+
+[ref ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]](https://www.youtube.com/watch?v=0mVbNp1ol_w&t=950s)
+
+[ref public/assets](https://drive.google.com/drive/folders/1G5RYGvHSj7eXL5m6f7GoyF35a6vxUR1J)
+
+```bash
+ $npm install styled-components
+ $npm install --save-dev @types/styled-components
+ ```
+
