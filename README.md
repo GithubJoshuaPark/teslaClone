@@ -59,4 +59,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
  $npm install styled-components
  $npm install --save-dev @types/styled-components
  ```
-
+![tesla clone](./public/images/tesla01.png)
