@@ -60,3 +60,23 @@ To learn React, check out the [React documentation](https://reactjs.org/).
  $npm install --save-dev @types/styled-components
  ```
 ![tesla clone](./public/images/tesla01.png)
+
+
+---
+> let's use material-ui for react
+[ref: Material UI - Overview](https://mui.com/material-ui/getting-started/overview/)
+
+```bash
+ $npm install @mui/material @emotion/react @emotion/styled
+ $npm install @mui/icons-material
+ $npm install @material-ui/icons
+```
+
+---
+> let's use react-reveal for animation
+
+[ref: React Reveal](https://www.react-reveal.com/docs/)
+
+```bash
+ $npm install react-reveal --save
+```

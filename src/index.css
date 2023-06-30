@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik:wght@300&display=swap');
 
+
 * {
   box-sizing: border-box;
   font-family: 'Rubik', sans-serif;
@@ -11,6 +12,10 @@
 body {
   width: 100%;
   overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
 }
 
 @keyframes animateDown {
